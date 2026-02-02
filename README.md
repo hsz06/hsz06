@@ -52,20 +52,28 @@
 <!-- metrics 基础资料 -->
 ![Metrics](/github-metrics.svg)
 
+<!-- github 统计卡片 -->
 [![Anurag's GitHub stats](https://github-readme-stats-one-sable-77.vercel.app/api?username=hsz06)](https://github.com/anuraghazra/github-readme-stats)
+
+<!-- GitHub 使用语言统计 -->
 ![Top Langs](https://github-readme-stats-one-sable-77.vercel.app/api/top-langs/?username=hsz06)
-![trophy](https://github-profile-trophy.vercel.app/?username=hsz06)
+
+
+<!-- GitHub 访客徽章 -->
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=hsz06&left_color=green&right_color=red)
+
+<!-- GitHub 活动统计图 -->
 ![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=hsz06)
+
+<!-- GitHub 修仙统计图 -->
 ![IceEnd's GitHub stats](https://github-immortality.vercel.app/api?username=hsz06)
+
+<!-- GitHub 连续打卡 -->
 ![GitHub Streak](https://streak-stats.demolab.com/?user=hsz06)
+
+<!-- GitHub 社交统计 -->
 ![](https://stats.justsong.cn/api/leetcode?username=hsz&cn=true)
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hsz06/hsz06/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hsz06/hsz06/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/hsz06/hsz06/output/github-contribution-grid-snake.svg">
-</picture>
 
 <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" /> 
 <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3" /> 
