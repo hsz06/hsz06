@@ -8,10 +8,19 @@
 ![IceEnd's GitHub stats](https://github-immortality.vercel.app/api?username=hsz06)
 ![GitHub Streak](https://streak-stats.demolab.com/?user=hsz06)
 ![](https://stats.justsong.cn/api/leetcode?username=hsz&cn=true)
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hsz06/hsz06/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hsz06/hsz06/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/hsz06/hsz06/output/github-contribution-grid-snake.svg">
+</picture>
+
 <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" /> 
 <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3" /> 
 <img src="https://img.shields.io/badge/-JavaScript-oringe?style=flat-square&logo=javascript" />
 ![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)
+
+
 <!--
 **hsz06/hsz06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
