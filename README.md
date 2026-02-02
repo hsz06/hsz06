@@ -2,7 +2,7 @@
 ![Metrics](/github-metrics.svg)
 [![Anurag's GitHub stats](https://github-readme-stats-one-sable-77.vercel.app/api?username=hsz06)](https://github.com/anuraghazra/github-readme-stats)
 ![Top Langs](https://github-readme-stats-one-sable-77.vercel.app/api/top-langs/?username=hsz06)
-![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)
+![trophy](https://github-profile-trophy.vercel.app/?username=hsz06)
 <!--
 **hsz06/hsz06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
