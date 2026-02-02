@@ -4,6 +4,10 @@
 ![Top Langs](https://github-readme-stats-one-sable-77.vercel.app/api/top-langs/?username=hsz06)
 ![trophy](https://github-profile-trophy.vercel.app/?username=hsz06)
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=hsz06&left_color=green&right_color=red)
+![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=hsz06)
+![IceEnd's GitHub stats](https://github-immortality.vercel.app/api?username=hsz06)
+![GitHub Streak](https://streak-stats.demolab.com/?user=hsz06)
+![](https://stats.justsong.cn/api/leetcode?username=hsz&cn=true)
 <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" /> 
 <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3" /> 
 <img src="https://img.shields.io/badge/-JavaScript-oringe?style=flat-square&logo=javascript" />
