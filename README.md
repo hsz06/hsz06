@@ -1,4 +1,15 @@
-## Hi there 👋
+<div align="center">
+
+  <!-- knock code pictures 敲代码的图片 -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" />
+    <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/developer.svg" height="225px" />
+    <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" />
+  </picture>
+
+  <!-- for beauty 留个空行好看点 -->
+  <div>&nbsp;</div>
+
 ![Metrics](/github-metrics.svg)
 [![Anurag's GitHub stats](https://github-readme-stats-one-sable-77.vercel.app/api?username=hsz06)](https://github.com/anuraghazra/github-readme-stats)
 ![Top Langs](https://github-readme-stats-one-sable-77.vercel.app/api/top-langs/?username=hsz06)
