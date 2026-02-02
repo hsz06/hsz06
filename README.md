@@ -10,7 +10,48 @@
   <!-- for beauty 留个空行好看点 -->
   <div>&nbsp;</div>
 
+
+<!-- profile logo 个人资料徽标 -->
+  <div>
+    <img src="https://komarev.com/ghpvc/?username=hsz06&label=Views&color=orange&style=flat" alt="访问量统计" />&emsp;
+  </div>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hsz06/hsz06/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hsz06/hsz06/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/hsz06/hsz06/output/github-contribution-grid-snake.svg">
+</picture>
+
+</div>
+
+#  🙋 Hello
+
+<table>
+  
+<tr><td>
+
+### 🤺 About Me
+
+<img align="right" width="88" src="https://avatars.githubusercontent.com/u/45090349?v=4" />
+
+<p>&emsp;&emsp;嗨，我是hsz。热爱编程、徒步、爬山、旅行。</p>
+<p>&emsp;&emsp;一个永远也长不大的男孩</p>
+<p>&emsp;&emsp;<strong>We're making the world a better place. Through constructing elegant hierarchies for maximum code reuse and extensibility.</strong></p>
+
+
+  <!-- for beauty 留个空行好看点 -->
+  <div>&nbsp;</div>
+
+</td></tr>
+
+<tr><td>
+</table>
+
+## 📊 GitHub 数据统计
+
+<!-- metrics 基础资料 -->
 ![Metrics](/github-metrics.svg)
+
 [![Anurag's GitHub stats](https://github-readme-stats-one-sable-77.vercel.app/api?username=hsz06)](https://github.com/anuraghazra/github-readme-stats)
 ![Top Langs](https://github-readme-stats-one-sable-77.vercel.app/api/top-langs/?username=hsz06)
 ![trophy](https://github-profile-trophy.vercel.app/?username=hsz06)
